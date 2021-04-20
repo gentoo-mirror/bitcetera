@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install postinst
+DEPEND=dev-libs/libconfig
+DESCRIPTION=RTLSDR AM demodulator with support for multiple channels per dongle
+EAPI=6
+HOMEPAGE=https://github.com/szpajder/RTLSDR-Airband
+IUSE=nfm fftw pulseaudio
+KEYWORDS=~x86 ~arm
+LICENSE=GPL-3
+RDEPEND=dev-libs/libconfig net-wireless/rtl-sdr media-libs/libogg media-libs/libvorbis media-libs/libshout media-sound/lame fftw? ( sci-libs/fftw ) pulseaudio? ( media-sound/pulseaudio )
+SLOT=0
+SRC_URI=https://github.com/szpajder/RTLSDR-Airband/archive/v3.0.0.tar.gz -> rtlsdr-airband-3.0.0.tar.gz
+_md5_=8324f6f3b622cab485c19838dbd88a56

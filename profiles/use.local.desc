@@ -1,11 +1,6 @@
-# Copyright 1999-2010 Gentoo Foundation.
-# Distributed under the terms of the GNU General Public License v2
-# $Header: $
-
-# This file contains descriptions of local USE flags, and the ebuilds which
-# contain them.
-
-# Keep it sorted.
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
 
 app-misc/heyu:cm17a - Support the X10 CM17A "Firecracker" device
 app-misc/heyu:dmx210 - Support the Digimax 210 remote thermostat device
@@ -15,5 +10,5 @@ app-misc/heyu:rfxm - Support RFXMeters
 app-misc/heyu:rfxs - Support RFXSensors
 media-radio/rtlsdr-airband:fftw - Use fftw (required on platforms without VideoCore GPU)
 media-radio/rtlsdr-airband:nfm - Enable NFM reception
-www-apps/modsecurity:geoip - Support GeoIP
 www-apps/modsecurity:afl - Support rules fuzzer
+www-apps/modsecurity:geoip - Support GeoIP

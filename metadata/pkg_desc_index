@@ -1,0 +1,15 @@
+app-misc/heyu 2.8.0 2.9.2: Utility to control and program CM11A, CM17A and CM12U X10 interfaces
+dev-db/pglogical 2.2.1: Logical replication for PostgreSQL
+dev-libs/libmaxminddb 1.0.2: Library to read Maxmind GeoIP2 database files
+mail-filter/dovecot-antispam 2.0_pre20130429: A dovecot antispam plugin supporting multiple backends
+mail-filter/dovecot-antispam-hg 20101222: A dovecot antispam plugin supporting multiple backends
+mail-filter/postwhite 0.1.4: Per-recipient whitelist policy server for Postfix MTA managed entirely by emails.
+media-radio/rtlsdr-airband 2.4.0 3.0.0: RTLSDR AM demodulator with support for multiple channels per dongle
+media-radio/rtlsdr-ogn 0.2.5 0.2.6 0.2.8: OGN radio message to APRS relay
+media-video/fswebcam 20160111: Simple command-line webcam application
+net-dns/acme-dns 0.7.2-r1 0.8: A simplified DNS server with a RESTful HTTP API to provide ACME DNS challenges
+net-firewall/vuurmuur 0.8_rc2: Frontend for iptables featuring easy to use command line utils, rule- and logdaemons
+net-libs/libvuurmuur 0.8_rc2: Libraries and plugins required by Vuurmuur
+net-misc/procserv 2.6.0 2.7.0: Daemon wrapper which binds stdin, stdout and stderr to a TCP port
+www-apps/modsecurity 3.0.4: Web application firewall (WAF) engine for Apache, IIS and Nginx
+www-nginx/security 1.0.1: ModSecurity v3 Nginx connector
