@@ -2,7 +2,6 @@ app-misc/heyu 2.8.0 2.9.2: Utility to control and program CM11A, CM17A and CM12U
 dev-db/pglogical 2.2.1: Logical replication for PostgreSQL
 dev-libs/libmaxminddb 1.0.2: Library to read Maxmind GeoIP2 database files
 mail-filter/dovecot-antispam 2.0_pre20130429: A dovecot antispam plugin supporting multiple backends
-mail-filter/dovecot-antispam-hg 20101222: A dovecot antispam plugin supporting multiple backends
 mail-filter/postwhite 0.1.4: Per-recipient whitelist policy server for Postfix MTA managed entirely by emails.
 media-radio/rtlsdr-airband 2.4.0 3.0.0: RTLSDR AM demodulator with support for multiple channels per dongle
 media-radio/rtlsdr-ogn 0.2.5 0.2.6 0.2.8: OGN radio message to APRS relay
